@@ -1,0 +1,27 @@
+com/example/mamae/databinding/ActivityHomeBinding.java
+ com.example.mamae.databinding.ActivityHomeBinding
+com/example/mamae/databinding/ActivityLogin2Binding.java
+ com.example.mamae.databinding.ActivityLogin2Binding
+com/example/mamae/LoginActivity.java
+ com.example.mamae.LoginActivity
+com/example/mamae/databinding/ActivityMainBinding.java
+ com.example.mamae.databinding.ActivityMainBinding
+com/example/mamae/CadastroActivity.java
+ com.example.mamae.CadastroActivity
+com/example/mamae/databinding/ActivityMain2Binding.java
+ com.example.mamae.databinding.ActivityMain2Binding
+com/example/mamae/MainActivity.java
+ com.example.mamae.MainActivity
+ com.example.mamae.MainActivity$1
+com/example/mamae/LoginActivity2.java
+ com.example.mamae.LoginActivity2
+com/example/mamae/databinding/ActivityRegistarBebeBinding.java
+ com.example.mamae.databinding.ActivityRegistarBebeBinding
+com/example/mamae/BuildConfig.java
+ com.example.mamae.BuildConfig
+com/example/mamae/databinding/ActivityCadastroBinding.java
+ com.example.mamae.databinding.ActivityCadastroBinding
+com/example/mamae/RegistarBebe.java
+ com.example.mamae.RegistarBebe
+com/example/mamae/Home.java
+ com.example.mamae.Home

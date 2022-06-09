@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/txt_expressao"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:ellipsize="start"
+        android:gravity="end"
+        android:singleLine="true"
+        android:text="@string/imagemprincipal"
+        android:textColor="@color/white"
+        android:scaleType="center"
+        android:src="@drawable/iinial"
+        android:textSize="40sp"
+        android:contentDescription="@string/todo" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:ellipsize="end"
+            android:gravity="start"
+            android:maxLines="1"
+            android:layout_marginTop="10dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:text="@string/bemVindo"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="@color/corPrincipal"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/txt_resultado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:gravity="start"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/descricao"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="@color/corPrincipal"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/iniciarImg"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="end"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="40dp"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/ic_iniciar" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

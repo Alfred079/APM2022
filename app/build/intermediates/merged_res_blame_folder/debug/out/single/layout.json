@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login2.xml",
+        "source": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\src\\main\\res\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_registar_bebe.xml",
+        "source": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\src\\main\\res\\layout\\activity_registar_bebe.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
+        "source": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cadastro.xml",
+        "source": "D:\\Documentos\\Alfredo\\Faculdade\\Android\\Mamae\\app\\src\\main\\res\\layout\\activity_cadastro.xml"
+    }
+]
